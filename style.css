@@ -36,6 +36,7 @@ body {
   flex-direction: column;
   padding: 2.5rem;
   max-width: 24rem;
+  width: 100%;
   border-radius: 0.75rem;
   gap: 1.5rem;
 }
