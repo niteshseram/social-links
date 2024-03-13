@@ -100,9 +100,6 @@ body {
 .user-link-card:hover {
   background-color: var(--green);
   color: var(--off-black);
-  -webkit-transition: background-color 0.5s ease;
-  -ms-transition: background-color 0.5s ease;
-  transition: background-color 0.5s ease;
 }
 
 /* Responsive Styles */
